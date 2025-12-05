@@ -1,33 +1,6 @@
 [
   {
     "name": "Test",
-    "message": "This is a test message\n",
-    "date": "2025-12-01T05:34:03.979Z"
-  },
-  {
-    "name": "PixelWizard42",
-    "message": "Just stopping by to say hi. I really appreciate the effort you’ve put into creating this space. The combination of aesthetics and functionality makes it a pleasure to use. Keep up the good work!",
-    "date": "2025-12-01T06:08:46.357Z"
-  },
-  {
-    "name": "John",
-    "message": "Nice 👍🏼",
-    "date": "2025-12-05T05:18:37.924Z"
-  },
-  {
-    "name": "PP",
-    "message": "Hi",
-    "country": "AQ",
-    "date": "2025-12-05T05:31:32.908Z"
-  },
-  {
-    "name": "adad",
-    "message": "dwd",
-    "country": "BO",
-    "date": "2025-12-05T05:44:03.918Z"
-  },
-  {
-    "name": "Test",
     "message": "This is a test message.",
     "country": "PK",
     "date": "2025-12-05T06:27:47.194Z"
